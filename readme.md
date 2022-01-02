@@ -1,4 +1,4 @@
-![img](https://github.com/forhadk/forhadk/blob/main/images/fk_ri.png)
+![img](https://github.com/forhadk/forhadk/blob/main/images/forhadk.png)
 
 <!--
 **forhadk/forhadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
